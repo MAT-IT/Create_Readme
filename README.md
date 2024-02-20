@@ -1,5 +1,5 @@
 
-# Create Readme File
+# Creat Readme File
 
 ## Description
 CR
@@ -13,19 +13,19 @@ CR
 - [email ](#email)
 
 ## Installation
-clone githup repo
+clone from githup repo
 
 ## Usage
-when you crate readme file, you can use this program via terminal
+when you want to creat readme file , you can do it via terminal
 
 ## licence
 undefined
 
 ## contributing
-give feedback
+Give feedback to improve
 
 ## GitHub username
 MAT-IT
 
 ## email address
-zhdtunay.gmail.com
+zhdtunat@gmail.com
