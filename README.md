@@ -16,16 +16,16 @@ CR
 clone githup repo
 
 ## Usage
-when we want to create readmefile , we can do it via terminal
+when you crate readme file, you can use this program via terminal
 
 ## licence
 undefined
 
 ## contributing
-feedback and help to improve
+give feedback
 
 ## GitHub username
 MAT-IT
 
 ## email address
-zhdtunay@gmail.com
+zhdtunay.gmail.com
