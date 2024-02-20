@@ -11,8 +11,8 @@ ${data.description}
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+- [GitHub username](#GitHub username)
+- [email address](#email address)
 
 ## Installation
 ${data.installation}
