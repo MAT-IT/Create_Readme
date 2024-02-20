@@ -29,3 +29,7 @@ MAT-IT
 
 ## email address
 zhdtunat@gmail.com
+
+ ## link to the video
+
+https://drive.google.com/file/d/1_5DEK9-_tc3zk_1RzDDLkQiX1RUYLvux/view
