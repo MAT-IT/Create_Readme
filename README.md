@@ -9,8 +9,8 @@ CR
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [GitHub username](#GitHub username)
-- [email address](#email address)
+- [GitHub username](#github)
+- [email address](#email)
 
 ## Installation
 clone githup repo
